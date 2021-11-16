@@ -31,7 +31,11 @@ exports.handler = async (event) => {
         key2 = body.key2 || key2;
         key3 = body.key3 || key3;
     }
- 
+    
+    key1 = key1 || event.key1;
+    key2 = key2 || event.key2;
+    key3 = key3 || event.key3;
+    
     let responseMessage = `Given data was ${key1}, ${key2}, ${key3}`;
 
     let responseBody = {

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = launch_demo_api
+build_property.ProjectDir = /home/sysadmin/source/repos/working-with-cloud-public/demos/RDS/launch-demo-api/

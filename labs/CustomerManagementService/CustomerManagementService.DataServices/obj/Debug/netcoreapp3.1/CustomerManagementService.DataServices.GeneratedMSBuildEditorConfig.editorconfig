@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CustomerManagementService.DataServices
+build_property.ProjectDir = /home/sysadmin/source/repos/working-with-cloud/CustomerManagementService/CustomerManagementService.DataServices/
